@@ -1,0 +1,131 @@
+body{
+    background: url("https://wallpapertag.com/wallpaper/full/a/3/5/441230-us-navy-wallpaper-2560x1600-for-computer.jpg" );
+    background-size: cover;
+
+}
+
+ul li a{
+    font-size: 18px;
+    font-family: Georgia;
+    color: white;
+    display: inline-block;
+    padding: 18px;
+
+
+}
+nav{
+    width: 100%;
+    height: 60px;
+    background: navy;
+
+}
+
+img{
+    opacity: 0.7;
+    filter: alpha(opacity= 40);
+    width: 60px;
+    height: 60px;
+    float: left;
+
+
+}
+
+nav ul{
+    margin: 0px;
+    padding: 0px;
+
+
+
+
+}
+
+nav ul li{
+    float: left;
+    list-style: none;
+    position: relative;
+    width: 330px;
+    height: 40px;
+    opacity: 0.95;
+    filter: alpha(opacity= 10);
+    text-align: center;
+
+
+
+}
+
+nav ul li a{
+    display: block;
+     font-family: Georgia;
+    color: mintcream;
+    font-size: 16px;
+    padding: 22px 14px;
+    text-decoration: none;
+}
+
+nav ul li a:hover{
+    background-color: gold;
+    height: 16px;
+}
+nav ul li ul{
+    display: none;
+    position: absolute;
+    background-color: mintcream;
+    padding: 9px;
+    border-radius: 0px 0px 4px 4px;
+
+}
+
+nav ul li:hover ul  {
+    display: block;
+    position: absolute;
+    background-color: navy;
+    padding: 11px;
+    border-radius: 0px 0px 4px 4px;
+
+}
+
+nav ul li ul li{
+    width: 180px;
+    border-radius: 0px 0px 4px 4px;
+}
+
+nav ul li ul li a{
+    padding: 20px 24px ;
+    text-align: center;
+
+
+
+}
+
+nav ul li ul li a:hover{
+    background-color: gold;
+    width: 271px;
+    height: 11px;
+
+}
+
+
+
+h1{
+    color: gold;
+
+}
+h2{
+    color: gold ;
+
+}
+
+h3{
+    text-indent: 100%;
+    white-space: nowrap;
+    overflow: hidden;
+    color: mintcream;
+}
+p{
+    font-size: 30px;
+    font-family: Georgia;
+    color: gold;
+    text-align: center;
+
+
+}
